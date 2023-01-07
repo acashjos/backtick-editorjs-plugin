@@ -1,4 +1,6 @@
-![](https://badgen.net/badge/Editor.js/v2.0/blue)
+See [editor.js website](https://codex.so/editor)
+
+This repo is intended to be an intine editor tool. This plugin will add a new component icon which can be used to insert components. This can be edited inline too.
 
 # Underline Tool
 Inline tool for underlining text fragments for the [Editor.js](https://github.com/codex-team/editor.js)
